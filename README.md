@@ -3,10 +3,7 @@
 ###Software & Tools Requirement
 
 1. [Github Account](https://github.com)
-2.[Heroku Account](https://heroku.com)
-3. (VS Code IDE)(http://code.visualstudio.com/)
+2. [Python] (https:www.python.org)
+3. [VS Code IDE](http://code.visualstudio.com/)
 
-
-Create a new environment
-conda create -p venv python==3.10 -y
  
