@@ -1,4 +1,4 @@
-# boston_house_pricing
+# boston_house_pricing end to end ML deployment
 
 ###Software & Tools Requirement
 
